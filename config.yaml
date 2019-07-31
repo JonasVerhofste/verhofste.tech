@@ -1,0 +1,27 @@
+---
+baseURL: "https://verhofste.tech"
+languageCode: "en-gb"
+defaultContentLanguage: "en"
+title: "Jonas Verhofsté"
+theme: "hermit"
+rssLimit: 0
+
+author:
+  name: "Jonas Verhofsté"
+
+params:
+  dateform: "Jan 2, 2006"
+  dateformShort: "Jan 2"
+  dateformNum: "02-01-2006"
+  dateformNumTime: "02-01-2006 15:04 +0100"
+
+  homeSubtitle: "With great power comes great opportunity for confusion"
+  bgImg: "background.jpg"
+  customCSS: ["custom.css"]
+
+  social:
+    - name: "github"
+      url: "https://github.com/JonasVerhofste"
+
+    - name: "twitter"
+      url: "https://twitter.com/JonasVerhofste"
