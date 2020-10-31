@@ -1,3 +1,6 @@
 [submodule "themes/hermit"]
 	path = themes/hermit
 	url = https://github.com/Track3/hermit.git
+[submodule "static/forkawesome"]
+	path = static/forkawesome
+	url = https://github.com/ForkAwesome/Fork-Awesome.git

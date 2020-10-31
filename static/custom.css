@@ -2,3 +2,16 @@
   opacity: .7;
 }
 
+#home-social {
+  font-size: 1.5rem;
+  opacity: 1;
+}
+
+#home-social a {
+  margin: 0 .6rem;
+}
+
+#home-social a:hover {
+  color: #000;
+  text-shadow: none;
+}

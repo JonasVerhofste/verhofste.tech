@@ -1,0 +1,3 @@
+{{ range . -}}
+<a href="{{ .url }}" target="_blank" rel="noopener me" title="{{ .title | default .name | humanize }}"><i class="fa fa-{{ .name }} fa-{{ .size | default "2x" }}"></i></a>
+{{- end -}}

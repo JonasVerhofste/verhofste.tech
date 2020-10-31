@@ -17,11 +17,19 @@ params:
 
   homeSubtitle: "With great power comes great opportunity for confusion"
   bgImg: "background-optimized.jpg"
-  customCSS: ["custom.css"]
+  customCSS:
+    - "custom.css"
+    - "forkawesome/css/fork-awesome.min.css"
 
   social:
     - name: "github"
       url: "https://github.com/JonasVerhofste"
-
     - name: "twitter"
       url: "https://twitter.com/JonasVerhofste"
+    - name: "gnupg"
+      url: "/jonasverhofste.pgp"
+    - name: "keybase"
+      url: "https://keybase.io/jonasverhofste"
+    - name: "envelope-o"
+      title: "mail"
+      url: "mailto:jonas@verhofste.tech"
