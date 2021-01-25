@@ -27,7 +27,7 @@ params:
     - name: "twitter"
       url: "https://twitter.com/JonasVerhofste"
     - name: "gnupg"
-      url: "/jonasverhofste.pgp"
+      url: "/jonasverhofste.asc"
     - name: "keybase"
       url: "https://keybase.io/jonasverhofste"
     - name: "envelope-o"
